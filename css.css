@@ -1,0 +1,42 @@
+/* { 
+  border: 1px solid #000;
+}*/ 
+
+nav {
+  margin-bottom: 30px;
+}
+h2, h3 {
+  font-family: 'Comfortaa', cursive;
+}
+
+p {
+  /*margin: 5px 50px 5px 50px;*/
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
+}
+
+body {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  background-color: DimGray;
+}
+
+.container {
+  background-color: white;
+  border-radius: 5%;
+  padding-bottom: 20px;
+}
+
+nav ul li {
+  display: inline-block;
+  
+}
+
+.row img {
+  width: 100%;
+  border-radius: 5%;
+}
+
+footer {
+  margin-top: 20px;
+  }

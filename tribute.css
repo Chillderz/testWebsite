@@ -1,0 +1,64 @@
+/** {
+  border: 1px solid #000;
+}*/
+nav {
+  padding: 50px 0;
+  /*min-width: 500px;*/
+}
+nav ul {
+  linear-gradient(90deg, 
+     rgba(255, 255, 255, 0) 0%, 
+     rgba(255, 255, 255, 0.2) 25%, 
+     rgba(255, 255, 255, 0.2) 75%, 
+     rgba(255, 255, 255, 0) 100%);
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1),
+     inset 0 0 1px rgba(255, 255, 255, 0.6);
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li a {
+    padding: 10px; 
+    color: #000000;
+    font-size: 18px;
+    font-family: Arial;
+    text-decoration: none;
+    display: block;
+ }
+
+body {
+  margin-top: 60px;
+  background-image:url("http://cdn.pcwallart.com/images/new-york-knicks-2014-logo-wallpaper-1.jpg");
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size: 100% 100%;
+}
+.container{
+  background-color:rgba(206,206,206,0.95);
+  border-radius:1%;
+}
+p {
+  font-family: 'Special Elite', cursive;
+  text-indent: 2.5%;
+  
+}
+h1{
+  font-family: 'Righteous', cursive;
+}
+h4{
+  font-family: 'Righteous', cursive;
+}
+h6{
+  font-family: 'Righteous', cursive;
+}
+ul{
+  font-family: 'Special Elite', cursive;
+  list-style-type:none;
+}
+.img-responsive {
+  border-radius:1%;
+}
+img {
+  width: 95%;
+  height: auto;
+}
